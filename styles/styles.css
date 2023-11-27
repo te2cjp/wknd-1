@@ -12,7 +12,7 @@
 
  :root {
   /* colors */
-  --color-yellow: #ff0084;
+  --color-yellow: #7e0004;
   --link-color: black;
   --link-hover-color: black;
   --background-color: #fff;
@@ -338,4 +338,10 @@ main .section[data-section-status='initialized'] {
 
 .cc-btn.cc-save {
   padding: 13px 29px;
+}
+
+
+
+.carousel-text {
+  display: none;
 }
